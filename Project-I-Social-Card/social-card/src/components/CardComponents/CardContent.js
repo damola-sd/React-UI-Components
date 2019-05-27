@@ -13,3 +13,5 @@ function CardContent ({heading, paragragh}) {
 
     )
 }
+
+export default CardContent;
