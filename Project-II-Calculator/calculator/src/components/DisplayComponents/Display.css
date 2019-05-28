@@ -1,0 +1,8 @@
+.total-display {
+    height: 100px;
+    color: white;
+    background-color: black;
+    font-size: 30px;
+    text-align: right;
+    padding: 10px;
+}
